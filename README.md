@@ -23,17 +23,6 @@
 
 - 🎯 Hunting on [YesWeHack](https://yeswehack.com/hunters/n13s) and [HackerOne](https://hackerone.com/n13s)
 
-## 📊 GitHub stats
-
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ahuseinnf&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahuseinnf&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahuseinnf&theme=tokyonight&hide_border=true" alt="Streak stats" />
-</p>
-
 ## 📫 Reach me
 
 <p align="left">
