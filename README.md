@@ -22,8 +22,6 @@
 </p>
 
 - 🎯 Hunting on [YesWeHack](https://yeswehack.com/hunters/n13s) and [HackerOne](https://hackerone.com/n13s)
-- 🔎 Focus: web application security — authorization, business-logic, injection, SSRF, chained-primitive attacks
-- 📄 Report style: reproducible, evidence-heavy, minimal filler
 
 ## 📊 GitHub stats
 
