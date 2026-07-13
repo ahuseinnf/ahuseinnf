@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&width=440&lines=Backend+Developer;AppSec+%7C+Bug+Bounty+Hunter;Symfony+%2B+PHP" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&width=440&lines=Bug+Bounty+Hunter;AppSec+Researcher;Web+Application+Security;Hunting+%40+YesWeHack+%2B+HackerOne" alt="Typing SVG" />
   </a>
 </p>
 
@@ -14,7 +14,7 @@
 
 <p align="left">
   <a href="https://yeswehack.com/hunters/n13s">
-    <img src="https://img.shields.io/badge/YesWeHack-n13s-D42D2B?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white" alt="YesWeHack" />
+    <img src="https://img.shields.io/badge/YesWeHack-n13s-D42D2B?style=for-the-badge&logoColor=white" alt="YesWeHack" />
   </a>
   <a href="https://hackerone.com/n13s">
     <img src="https://img.shields.io/badge/HackerOne-n13s-494649?style=for-the-badge&logo=hackerone&logoColor=white" alt="HackerOne" />
@@ -22,19 +22,8 @@
 </p>
 
 - 🎯 Hunting on [YesWeHack](https://yeswehack.com/hunters/n13s) and [HackerOne](https://hackerone.com/n13s)
-- 🔐 Focus: web application security, OWASP ASVS, backend hardening
-- 🛠️ Daily drivers: PHP · Symfony · Burp Suite · Linux
-
-## 🧰 Tech stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white" alt="Symfony" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-</p>
+- 🔎 Focus: web application security — authorization, business-logic, injection, SSRF, chained-primitive attacks
+- 📄 Report style: reproducible, evidence-heavy, minimal filler
 
 ## 📊 GitHub stats
 
@@ -57,4 +46,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ahuseinnf&style=flat-square&color=blue" alt="Profile views" />
 </p>
-
