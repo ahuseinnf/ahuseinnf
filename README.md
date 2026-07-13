@@ -23,6 +23,15 @@
 
 - 🎯 Hunting on [YesWeHack](https://yeswehack.com/hunters/n13s) and [HackerOne](https://hackerone.com/n13s)
 
+## 🏆 Live hacking events & competitions
+
+- 🥇 **Singapore GovTech GBBP 17** — 1st Place
+- 🥇 **Singapore GovTech GBBP 16** — 1st Place
+- 🥇 **Singapore GovTech GBBP 15** — 1st Place
+- 🥇 **Singapore GovTech GBBP 14** — 1st Place
+- 🥉 **Singapore GovTech GBBP 13** — 3rd Place
+- 🇸🇪 **H1-468 Stockholm** — HackerOne Live Hacking Event participant
+
 ## 📫 Reach me
 
 <p align="left">
