@@ -47,33 +47,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahuseinnf&theme=tokyonight&hide_border=true" alt="Streak stats" />
 </p>
 
-## 🐍 Contribution snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahuseinnf/n13s/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahuseinnf/n13s/output/github-snake.svg" />
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/ahuseinnf/n13s/output/github-snake.svg" />
-</picture>
-
-## ♟️ Community chess
-
-**Anyone can play!** Click a move below — it opens a pre-filled GitHub Issue. Submit it, and a GitHub Action plays the move and redraws this board.
-
-<!-- BEGIN CHESS BOARD -->
-> ♟️ *The board renders here after the first workflow run — see setup notes.*
-<!-- END CHESS BOARD -->
-
-<details>
-<summary>🤔 How does this chess game work?</summary>
-
-1. Each move link opens a GitHub Issue with a pre-filled title like `chess|move|e2e4`.
-2. Submitting the issue triggers a GitHub Actions workflow.
-3. The workflow validates the move, updates the game state, regenerates the board between the `CHESS BOARD` markers, commits the README, and closes the issue.
-4. Anyone with a GitHub account can play — it's a community game.
-
-Powered by [marcizhu/readme-chess](https://github.com/marcizhu/readme-chess), inspired by [@timburgan](https://github.com/timburgan).
-</details>
-
 ## 📫 Reach me
 
 <p align="left">
