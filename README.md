@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&width=440&lines=Bug+Bounty+Hunter;AppSec+Researcher;Web+Application+Security;Hunting+%40+YesWeHack+%2B+HackerOne" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&width=440&lines=Security+Researcher;AppSec+Researcher;Web+Application+Security;Hunting+%40+YesWeHack+%2B+HackerOne" alt="Typing SVG" />
   </a>
 </p>
 
